@@ -1,0 +1,35 @@
+{
+  "values": [
+    "crimson_stairs",
+    "crimson_fence",
+    "crimson_fence_gate",
+    "crimson_door",
+    "crimson_trapdoor",
+    "crimson_pressure_plate",
+    "crimson_sign",
+    {
+      "id": "crimson_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_crimson",
+      "required": false
+    },
+    {
+      "id": "quark:crimson_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_crimson_post",
+      "required": false
+    },
+    {
+      "id": "create:crimson_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:crimson_trim",
+      "required": false
+    }
+  ]
+}

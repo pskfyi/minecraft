@@ -1,8 +1,16 @@
 {
+  "[markdown]": { "editor.defaultFormatter": "denoland.vscode-deno" },
+  "[json]": { "editor.defaultFormatter": "denoland.vscode-deno" },
+  "[jsonc]": { "editor.defaultFormatter": "denoland.vscode-deno" },
+  "[typescript]": { "editor.defaultFormatter": "denoland.vscode-deno" },
   "cSpell.words": [
+    "composter",
     "datapack",
     "datapacks",
     "modpack",
-    "modpacks"
+    "modpacks",
+    "Prismarine",
+    "recyclersdelight",
+    "Supplementaries"
   ]
 }

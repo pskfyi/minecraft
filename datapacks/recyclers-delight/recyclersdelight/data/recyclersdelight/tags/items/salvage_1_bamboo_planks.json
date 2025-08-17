@@ -1,0 +1,76 @@
+{
+  "values": [
+    {
+      "id": "bamboo_mosaic_stairs",
+      "required": false
+    },
+    {
+      "id": "bamboo_stairs",
+      "required": false
+    },
+    {
+      "id": "bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "bamboo_door",
+      "required": false
+    },
+    {
+      "id": "bamboo_trapdoor",
+      "required": false
+    },
+    {
+      "id": "bamboo_pressure_plate",
+      "required": false
+    },
+    {
+      "id": "bamboo_sign",
+      "required": false
+    },
+    {
+      "id": "bamboo_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_bamboo",
+      "required": false
+    },
+    {
+      "id": "create:bamboo_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:bamboo_trim",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_planks_stairs",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_fence",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_fence_gate",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_door",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_trapdoor",
+      "required": false
+    },
+    {
+      "id": "quark:bamboo_pressure_plate",
+      "required": false
+    }
+  ]
+}

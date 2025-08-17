@@ -1,0 +1,35 @@
+{
+  "values": [
+    "warped_stairs",
+    "warped_fence",
+    "warped_fence_gate",
+    "warped_door",
+    "warped_trapdoor",
+    "warped_pressure_plate",
+    "warped_sign",
+    {
+      "id": "warped_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_warped",
+      "required": false
+    },
+    {
+      "id": "quark:warped_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_warped_post",
+      "required": false
+    },
+    {
+      "id": "create:warped_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:warped_trim",
+      "required": false
+    }
+  ]
+}

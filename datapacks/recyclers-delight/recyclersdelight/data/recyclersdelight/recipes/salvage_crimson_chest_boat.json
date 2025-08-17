@@ -1,0 +1,33 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:item_exists",
+          "item": "crimson_chest_boat"
+        }
+      ],
+      "recipe": {
+        "type": "farmersdelight:cutting",
+        "tool": {
+          "type": "farmersdelight:tool_action",
+          "action": "pickaxe_dig"
+        },
+        "ingredients": [
+          {
+            "item": ""
+          }
+        ],
+        "result": [
+          {
+            "item": ""
+          },
+          {
+            "item": "chest"
+          }
+        ]
+      }
+    }
+  ]
+}

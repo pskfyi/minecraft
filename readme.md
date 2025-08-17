@@ -4,7 +4,8 @@
 
 ```
 ├── datapacks
-│   └── compass-curio
+│   ├── compass-curio
+│   └── recyclers-delight
 ├── modpacks
 ├── mods
 └── prototypes

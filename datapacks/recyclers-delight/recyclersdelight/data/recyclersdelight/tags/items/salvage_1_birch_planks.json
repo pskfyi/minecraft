@@ -1,0 +1,35 @@
+{
+  "values": [
+    "birch_stairs",
+    "birch_fence",
+    "birch_fence_gate",
+    "birch_door",
+    "birch_trapdoor",
+    "birch_pressure_plate",
+    "birch_sign",
+    {
+      "id": "birch_hanging_sign",
+      "required": false
+    },
+    {
+      "id": "supplementaries:hanging_sign_birch",
+      "required": false
+    },
+    {
+      "id": "quark:birch_post",
+      "required": false
+    },
+    {
+      "id": "quark:stripped_birch_post",
+      "required": false
+    },
+    {
+      "id": "create:birch_window",
+      "required": false
+    },
+    {
+      "id": "storagedrawers:birch_trim",
+      "required": false
+    }
+  ]
+}
